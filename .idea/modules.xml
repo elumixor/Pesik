@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pesik.iml" filepath="$PROJECT_DIR$/.idea/modules/Pesik.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pesik-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Pesik-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pesik-build.iml" filepath="$PROJECT_DIR$/.idea/modules/pesik-build.iml" />
     </modules>
   </component>
 </project>

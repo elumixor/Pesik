@@ -1,6 +1,8 @@
 import scala.concurrent.Await
 import scala.concurrent.duration.Duration
 
+import sys.process._
+
 object Application {
   def main(args: Array[String]): Unit = {
     val bot = new RandomBot("733310946:AAHL5DR_2S2VCkG4RZKlWZhijtv2mkDrjHs")
